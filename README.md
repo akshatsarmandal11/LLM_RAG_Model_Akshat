@@ -1,4 +1,4 @@
-# LLM_RAG_Model_Akshat
+# LLM_RAG_Model_FastAPI
 
 Steps:
 
